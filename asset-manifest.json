@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.22db2dc1.css",
-    "main.js": "/static/js/main.b034597a.js",
+    "main.css": "/static/css/main.88ee6f6e.css",
+    "main.js": "/static/js/main.681f4aba.js",
     "static/media/closeup-of-car-2.jpg": "/static/media/closeup-of-car-2.297fbc9b4560570937d7.jpg",
+    "static/media/bmw.jpg": "/static/media/bmw.43c16b2b32a109cce7bf.jpg",
     "static/media/KantumruyPro-VariableFont_wght.ttf": "/static/media/KantumruyPro-VariableFont_wght.8cd3012caf3ca9a1af6c.ttf",
+    "static/media/vedum.png": "/static/media/vedum.a6d94ba9aaaed5414b81.png",
     "index.html": "/index.html",
-    "main.22db2dc1.css.map": "/static/css/main.22db2dc1.css.map",
-    "main.b034597a.js.map": "/static/js/main.b034597a.js.map"
+    "main.88ee6f6e.css.map": "/static/css/main.88ee6f6e.css.map",
+    "main.681f4aba.js.map": "/static/js/main.681f4aba.js.map"
   },
   "entrypoints": [
-    "static/css/main.22db2dc1.css",
-    "static/js/main.b034597a.js"
+    "static/css/main.88ee6f6e.css",
+    "static/js/main.681f4aba.js"
   ]
 }
