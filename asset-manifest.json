@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.88ee6f6e.css",
-    "main.js": "/static/js/main.681f4aba.js",
-    "static/media/closeup-of-car-2.jpg": "/static/media/closeup-of-car-2.297fbc9b4560570937d7.jpg",
+    "main.css": "/static/css/main.a8816b45.css",
+    "main.js": "/static/js/main.2f895b15.js",
+    "static/media/pexels-nextvoyage-1476880.jpg": "/static/media/pexels-nextvoyage-1476880.c33b3d84efeda6fe99da.jpg",
     "static/media/bmw.jpg": "/static/media/bmw.43c16b2b32a109cce7bf.jpg",
     "static/media/KantumruyPro-VariableFont_wght.ttf": "/static/media/KantumruyPro-VariableFont_wght.8cd3012caf3ca9a1af6c.ttf",
+    "static/media/bmw_m3-1600.webp": "/static/media/bmw_m3-1600.c04257b05f1ebbc78fc4.webp",
     "static/media/vedum.png": "/static/media/vedum.a6d94ba9aaaed5414b81.png",
+    "static/media/Logo-Dark-Horizontal.svg": "/static/media/Logo-Dark-Horizontal.caeeb5a04ff6b19e93d286bcc15bcb77.svg",
+    "static/media/arrowDeprecated.svg": "/static/media/arrowDeprecated.ea74f59e3a11c6cfde3fd1e7415e8061.svg",
     "index.html": "/index.html",
-    "main.88ee6f6e.css.map": "/static/css/main.88ee6f6e.css.map",
-    "main.681f4aba.js.map": "/static/js/main.681f4aba.js.map"
+    "main.a8816b45.css.map": "/static/css/main.a8816b45.css.map",
+    "main.2f895b15.js.map": "/static/js/main.2f895b15.js.map"
   },
   "entrypoints": [
-    "static/css/main.88ee6f6e.css",
-    "static/js/main.681f4aba.js"
+    "static/css/main.a8816b45.css",
+    "static/js/main.2f895b15.js"
   ]
 }
