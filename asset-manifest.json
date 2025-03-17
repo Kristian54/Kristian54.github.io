@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a8816b45.css",
-    "main.js": "/static/js/main.2f895b15.js",
+    "main.css": "/static/css/main.d0d0e42b.css",
+    "main.js": "/static/js/main.22cfac01.js",
     "static/media/pexels-nextvoyage-1476880.jpg": "/static/media/pexels-nextvoyage-1476880.c33b3d84efeda6fe99da.jpg",
     "static/media/bmw.jpg": "/static/media/bmw.43c16b2b32a109cce7bf.jpg",
     "static/media/KantumruyPro-VariableFont_wght.ttf": "/static/media/KantumruyPro-VariableFont_wght.8cd3012caf3ca9a1af6c.ttf",
@@ -10,11 +10,11 @@
     "static/media/Logo-Dark-Horizontal.svg": "/static/media/Logo-Dark-Horizontal.caeeb5a04ff6b19e93d286bcc15bcb77.svg",
     "static/media/arrowDeprecated.svg": "/static/media/arrowDeprecated.ea74f59e3a11c6cfde3fd1e7415e8061.svg",
     "index.html": "/index.html",
-    "main.a8816b45.css.map": "/static/css/main.a8816b45.css.map",
-    "main.2f895b15.js.map": "/static/js/main.2f895b15.js.map"
+    "main.d0d0e42b.css.map": "/static/css/main.d0d0e42b.css.map",
+    "main.22cfac01.js.map": "/static/js/main.22cfac01.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8816b45.css",
-    "static/js/main.2f895b15.js"
+    "static/css/main.d0d0e42b.css",
+    "static/js/main.22cfac01.js"
   ]
 }
