@@ -1,20 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.d0d0e42b.css",
-    "main.js": "/static/js/main.22cfac01.js",
+    "main.css": "/static/css/main.977f0d0a.css",
+    "main.js": "/static/js/main.f6658bba.js",
     "static/media/pexels-nextvoyage-1476880.jpg": "/static/media/pexels-nextvoyage-1476880.c33b3d84efeda6fe99da.jpg",
     "static/media/bmw.jpg": "/static/media/bmw.43c16b2b32a109cce7bf.jpg",
     "static/media/KantumruyPro-VariableFont_wght.ttf": "/static/media/KantumruyPro-VariableFont_wght.8cd3012caf3ca9a1af6c.ttf",
     "static/media/bmw_m3-1600.webp": "/static/media/bmw_m3-1600.c04257b05f1ebbc78fc4.webp",
     "static/media/vedum.png": "/static/media/vedum.a6d94ba9aaaed5414b81.png",
     "static/media/Logo-Dark-Horizontal.svg": "/static/media/Logo-Dark-Horizontal.caeeb5a04ff6b19e93d286bcc15bcb77.svg",
+    "static/media/starUnfilled.svg": "/static/media/starUnfilled.9f2dadf4ced22afc6c313f4c67363a87.svg",
     "static/media/arrowDeprecated.svg": "/static/media/arrowDeprecated.ea74f59e3a11c6cfde3fd1e7415e8061.svg",
+    "static/media/starFilled.svg": "/static/media/starFilled.6657035edee6df0c483566f3a2fce00f.svg",
     "index.html": "/index.html",
-    "main.d0d0e42b.css.map": "/static/css/main.d0d0e42b.css.map",
-    "main.22cfac01.js.map": "/static/js/main.22cfac01.js.map"
+    "static/media/search.svg": "/static/media/search.ccb920c1a27f703d90684efa3f571ebc.svg",
+    "static/media/arrow-filter.svg": "/static/media/arrow-filter.e5f0f389105951d245002f53c4f979f0.svg",
+    "main.977f0d0a.css.map": "/static/css/main.977f0d0a.css.map",
+    "main.f6658bba.js.map": "/static/js/main.f6658bba.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0d0e42b.css",
-    "static/js/main.22cfac01.js"
+    "static/css/main.977f0d0a.css",
+    "static/js/main.f6658bba.js"
   ]
 }
